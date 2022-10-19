@@ -1,0 +1,17 @@
+h1 {
+text-align: left;
+font-family: sans-serif;
+font-weight: normal;
+border-bottom: 1px solid orange;
+}
+
+h2 {
+color: orange;
+font-size: 1em;
+margin-left: 100px;
+}
+
+img {
+float: right; 
+margin: 0 12px; 
+}
